@@ -19,5 +19,5 @@ https://www.youtube.com/watch?v=_L6vpV_3SaE
 
 ### Future Expansion:
 * Add Spanish - figure out how to write Spanish words using utf codes
-https://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp
+https://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp & 
 https://www.utf8-chartable.de/
